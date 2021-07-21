@@ -9,9 +9,9 @@ Project Catwalk is a redesign of product details page including photos, question
 Project Catwalk is being built with the [Material UI](https://material-ui.com/) framework. This project aims to add a section for product information, questions and answers, and reviews. In the product information section you will be able see price information, description and photos as well as add the product to your bag and favorite it. In the Questions and Reviews you will be able to ask questions and answer other peoples' questions. In the reviews section you will be able to see ratings and reviews for a specific product as well as creating your own.
 
 ## Instructions
-To start and run the app, its very simple!
-~ npm install: to install all depenedencies
-~ npm run react-dev: to compile code
+To start and run the app, its very simple! <br />
+~ npm install: to install all depenedencies <br />
+~ npm run react-dev: to compile code <br />
 ~ npm run server-dev: to start localhost server
 
 ## View
